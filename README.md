@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=taekto github!&fontSize=90" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=taekto%20github!&fontSize=90" /></div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
