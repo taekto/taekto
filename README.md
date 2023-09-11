@@ -1,19 +1,49 @@
-<!--
-**taekto/taekto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20Welcome%20to%20taekto's%20Github.&fontSize=30&animation=fadeIn&fontAlignY=45&descAlignY=51&descAlign=62)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h3>
+        <font color="#202020">Contact me by :</font>
+    </h3>
+</div>
 
-<div><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=taekto%20github&fontSize=90" /></div>
+<p align = "center">
+    <a href="https://taekputer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+    <a href="mailto:taekputer@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</p>
+
+<br><br>
+
+<div align="center">
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdy5435)](https://solved.ac/taekputer)
+  
+</div>
+
+<br><br>
+
+
+<div align="center">
+    <h3>
+        <font color="#202020">Github stats</font>
+    </h3>
+</div>
+
+
+<div align = "center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taekto&theme=light)](https://git.io/streak-stats)
+  
+<br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekto&layout=compact&theme=light&hide=)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -48,3 +78,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekto&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=taekto&show_icons=true">
+</div>
+
+
