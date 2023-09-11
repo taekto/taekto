@@ -16,7 +16,7 @@
 
 <div align="center">
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdy5435)](https://solved.ac/taekputer)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taekputer)](https://solved.ac/taekputer)
   
 </div>
 
